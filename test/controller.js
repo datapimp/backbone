@@ -14,6 +14,7 @@ $(document).ready(function() {
     },
     
     before: function(query) {
+      //testing github's new editor
       this.before_tag = query;
     },
 
